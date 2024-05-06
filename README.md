@@ -2,7 +2,8 @@
 
 
 - 🌱 notas para o meu github? 
-- 🐒 emoji da mc mirella
+Sin UNICAP
+Apple Dev Academy UFPE
 <div>
   
 <a href="https://instagram.com/caroletacosta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
